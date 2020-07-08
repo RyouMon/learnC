@@ -58,5 +58,6 @@ dkms.conf
 _
 --library=m
 CMakeLists.txt
+test
 
 cmake-build-debug/*
