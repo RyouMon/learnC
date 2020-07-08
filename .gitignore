@@ -51,6 +51,12 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+# swp files
+*.swp
+
 # Other files
 _
 --library=m
+CMakeLists.txt
+
+cmake-build-debug/*
